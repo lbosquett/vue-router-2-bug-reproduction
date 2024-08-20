@@ -1,1 +1,0 @@
-import{n as t}from"./index-Bq1i9v1q.js";const _={};var a=function(){var e=this,r=e._self._c;return e._self._setupProxy,r("div",[r("h2",[e._v("Page 2")]),r("div",[e._v("please go to page 3:")]),r("router-link",{attrs:{to:{name:"page-3"}}},[e._v(" Page 3 ")])],1)},n=[],o=t(_,a,n);const v=o.exports;export{v as default};
